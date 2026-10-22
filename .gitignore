@@ -1,0 +1,19 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Virtual environment
+
+.venv/
+venv/
+
+# PyCharm settings
+
+.idea/
+
+# Environment variables and secrets
+
+.env
+
+s
